@@ -15,7 +15,7 @@
 [<img align="left" alt="Mudasir Hussain | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/mudasir7t2
-[youtube]: 
+[youtube]: https://www.youtube.com/channel/UC-kNd61hgbWC_WreqRWqf2g
 [instagram]: https://www.instagram.com/mudasir_71/
 [linkedin]: https://www.linkedin.com/in/mudasir-hussain72/
 
