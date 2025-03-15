@@ -8,7 +8,7 @@ Hey there! I'm **Mudasir Hussain**, a passionate **Flutter developer** building 
 ## **📱 My AI-Powered Apps**  
 
 ### 📝 Notable AI: Smart Notes  
-<img src="https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/69/eb/82/69eb82eb-8971-1632-dcd1-3a4e6a93c61b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp" width="120" align="left" style="border-radius: 22px; margin-right: 15px;">  
+<img src="https://github.com/user-attachments/assets/dd4ccdb0-3e22-4d53-8822-6f25190b82bd" width="120" align="left" style="border-radius: 22px; margin-right: 15px;">  
 "AI-Powered Notes & Summaries"
 
 ✅ **AI-powered note-taking** with voice commands.  
