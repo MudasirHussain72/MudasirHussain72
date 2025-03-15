@@ -1,33 +1,59 @@
-<h1 align="center">Hi 👋, I'm Mudasir Hussain</h1>
-<h3 align="center">A passionate Flutter developer from Pakistan</h3>
+# **🚀 Mudasir Hussain | AI-Powered Flutter Developer**  
+### **Building the Future of AI-Driven Apps**  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mudasirhussain72&label=Profile%20views&color=0e75b6&style=flat" alt="mudasirhussain72" /> </p>
+Hey there! I'm **Mudasir Hussain**, a passionate **Flutter developer** building AI-powered mobile applications that enhance productivity, simplify daily tasks, and make life easier. I specialize in **Flutter, Firebase, Supabase, and AI integrations (OpenAI, Gemini, Claude).**  
 
-- 🔭 I’m currently working on [BabelMate](https://github.com/MudasirHussain72/BabelMate)
+---
 
-- 🌱 I’m currently learning **Bloc Architecture**
+## **📱 My AI-Powered Apps**  
 
-- 👯 I’m looking to collaborate on [TrimTime](https://github.com/MudasirHussain72/TrimTime)
+### 📝 Notable AI: Smart Notes  
+<img src="https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/69/eb/82/69eb82eb-8971-1632-dcd1-3a4e6a93c61b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp" width="120" align="left" style="border-radius: 22px; margin-right: 15px;">  
+"AI-Powered Notes & Summaries"
 
-- 👨‍💻 All of my projects are available at [https://github.com/MudasirHussain72](https://github.com/MudasirHussain72)
+✅ **AI-powered note-taking** with voice commands.  
+✅ **AI-generated summaries** & seamless syncing across devices.  
+✅ **No login required** – sync with a simple QR code.  
 
-- 💬 Ask me about **Flutter, Dart and Firebase.**
+📲 **[Download on iOS](https://apps.apple.com/us/app/notable-ai-smart-notes/id6670705567)**  
 
-- 📫 How to reach me **mudasir7t1@gmail.com**
+---
 
-- 📄 Know about my experiences [https://github.com/MudasirHussain72](https://github.com/MudasirHussain72)
+### 🍳 Bistro AI: Smart Recipes  
+<img src="https://github.com/user-attachments/assets/a6b8cb69-5c0a-46d7-a225-d41571a4998a" width="120" align="left" style="border-radius: 22px; margin-right: 15px;">  
+"AI-Powered Recipes"
 
-- ⚡ Fun fact **I think I am funny**
+✅ **Ingredient Scanner** – Scan pantry items for smart recipes.  
+✅ **Dish Scanner** – Replicate restaurant meals at home.  
+✅ **Diet-Friendly** – Personalized recipes (vegan, gluten-free, etc.).  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+📲 **[Download on iOS](https://apps.apple.com/us/app/bistro-ai-smart-recipes/id6739811194)**  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://docs.hivedb.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/hivedb/hive/master/.github/logo_transparent.svg?sanitize=true" alt="hive" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mudasirhussain72&show_icons=true&locale=en&layout=compact" alt="mudasirhussain72" /></p>
+### 🌿 FloroSense (Coming Soon)  
+<img src="https://via.placeholder.com/120" width="120" align="left" style="border-radius: 22px; margin-right: 15px;">  
+"AI Plant Care & Identification"
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mudasirhussain72&show_icons=true&locale=en" alt="mudasirhussain72" /></p>
+✅ **Identify plants** instantly with AI-powered vision.  
+✅ **Get care instructions** based on plant species.  
+✅ **Track watering schedules** & plant health over time.  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mudasirhussain72&" alt="mudasirhussain72" /></p>
+📲 **Launching Soon!**  
+
+---
+
+## **🔧 Tech Stack & Skills**  
+✅ **Flutter & Dart** – Cross-platform app development.  
+✅ **Firebase & Supabase** – Authentication, Firestore, Realtime Database, Cloud Functions.  
+✅ **AI Integrations** – OpenAI, Gemini, Claude.  
+✅ **Computer Vision** – AI-powered image recognition for plant and food identification.  
+✅ **State Management** – Provider, Riverpod, BLoC.  
+
+---
+
+## **📢 Let's Connect!**  
+🚀 **Website:** [devtrail.co](https://devtrail.co)  
+🐦 **Twitter/X:** [@Mudasir7t1](https://x.com/mudasir7t1)  
+💼 **LinkedIn:** [Mudasir Hussain](https://www.linkedin.com/in/mudasir72/)  
+📺 **YouTube:** [TechieMudasir](https://www.youtube.com/@TechieMudasir)   
